@@ -1,0 +1,5 @@
+Winpeas/*.exe
+.vs/
+*.suo
+**/obj/
+.DS_Store
